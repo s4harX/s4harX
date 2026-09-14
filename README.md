@@ -1,16 +1,32 @@
 ## Hi there 👋
 
-<!--
-**s4harX/s4harX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Technical Profile
 
-Here are some ideas to get you started:
+- 🐍 **Focus:** Learning Python
+- 🌐 **Languages:** English (B2), Russian (Native)
+- 💻 **Environment:** Windows / Sometimes Linux
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Tech Stack
+
+| Technology | Proficiency Level |
+| :--- | :--- |
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | **Good at it** |
+| ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) | *Newbie* |
+| ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) | Basic knowledge |
+| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) | Basic |
+| ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) | Basic |
+
+---
+
+### Technical Interests
+
+- Command Line Tools (CLI)
+- Backend and Frontend Development
+
+---
+
+### Goals
+
+- Build clean portfolio projects in Python
