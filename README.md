@@ -24,6 +24,8 @@
 
 - Command Line Tools (CLI)
 - Backend and Frontend Development
+- Graphic design
+- Video editing
 
 ---
 
