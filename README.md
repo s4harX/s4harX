@@ -2,7 +2,7 @@
 
 ### Technical Profile
 
-- 🐍 **Focus:** Learning Python
+- 🐍 **Focus:** Learning Python, started learning Go
 - 🌐 **Languages:** English (B2), Russian (Native)
 - 💻 **Environment:** Windows / Sometimes Linux
 
