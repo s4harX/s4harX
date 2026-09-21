@@ -4,7 +4,7 @@
 
 - 🐍 **Focus:** Learning Python, started learning Go
 - 🌐 **Languages:** English (B2), Russian (Native)
-- 💻 **Environment:** Windows / Sometimes Linux
+- 💻 **Environment:** Windows / CachyOS
 
 ---
 
